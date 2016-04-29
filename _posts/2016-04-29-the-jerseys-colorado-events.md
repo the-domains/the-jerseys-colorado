@@ -1,26 +1,24 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://tockify.com/jerseys/monthly'
-inLanguage: null
-keywords: []
-description: ''
-datePublished: '2016-04-29T21:08:01.057Z'
-dateModified: '2016-04-29T21:07:46.565Z'
 author: []
 related: []
-app_links: []
-title: "The Jersey's Colorado events"
-authors: []
 publisher:
-  name: Tockify
-  domain: tockify.com
   url: 'https://tockify.com'
+  name: Tockify
   favicon: 'https://tockify.com/favicon.ico'
+  domain: tockify.com
+keywords: []
+description: ''
+app_links: []
+isBasedOnUrl: 'https://tockify.com/jerseys/pinboard'
+title: "The Jersey's Colorado events"
+datePublished: '2016-04-29T21:13:22.593Z'
+dateModified: '2016-04-29T21:12:53.442Z'
 starred: false
 sourcePath: _posts/2016-04-29-the-jerseys-colorado-events.md
 published: true
+inFeed: true
+hasPage: false
+inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
