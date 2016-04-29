@@ -1,9 +1,7 @@
-favicon: null
 name: The Jerseys - Colorado
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.387218
+typography_spectrum: 0.49807
 collections:
   - index:
       path: /
@@ -16,25 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+title: The Jerseys Colorado
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5
-  brandStrength: 0.75
-  rhythmicContrast: 0.5
   brandColors:
     - '#00020d'
     - '#1993fb'
     - '#ea364f'
     - '#dfe6df'
     - '#957775'
+  brandStrength: 0.75
   lightness: 0.5
-typography_spectrum: 0.49807
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.387218
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  saturation: 0.5
+  rhythmicContrast: 0.5
+purpose: []
