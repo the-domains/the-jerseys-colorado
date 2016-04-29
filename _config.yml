@@ -1,6 +1,6 @@
 name: The Jerseys - Colorado
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.48839
 typography_spectrum: 0.49807
 collections:
   - index:
@@ -34,7 +34,7 @@ color:
     - '#a5111f'
     - '#735f4f'
     - '#f1ebed'
-  brandStrength: 0.75
+  brandStrength: 0.5
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
