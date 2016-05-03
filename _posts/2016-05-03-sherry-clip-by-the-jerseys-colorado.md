@@ -5,9 +5,9 @@ inNav: false
 isBasedOnUrl: 'https://soundcloud.com/thejerseyscolorado/sherry-clip'
 inLanguage: null
 keywords: []
-description: Stream Sherry Clip by The Jerseys Colorado from desktop or your mobile device
-datePublished: '2016-05-03T21:40:10.576Z'
-dateModified: '2016-05-03T21:39:57.885Z'
+description: ''
+datePublished: '2016-05-03T21:45:46.455Z'
+dateModified: '2016-05-03T21:45:45.965Z'
 author:
   - name: The Jerseys Colorado
     url: 'http://soundcloud.com/thejerseyscolorado'
