@@ -4,8 +4,15 @@
         <description><![CDATA[The Jerseys Colorado]]></description>
         <link>http://thejerseyscolorado.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 23:21:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2016 23:25:26 GMT</lastBuildDate>
         <atom:link href="http://thejerseyscolorado.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Jerseys Colorado Events]]></title>
+            <description><![CDATA[<article><h1>The Jerseys Colorado Events</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/97ea5929-d081-46af-9232-36cc4fb6cb0b.jpg"></article>]]></description>
+            <link>https://tockify.com/jerseys/pinboard</link>
+            <guid isPermaLink="false">64833039-23f8-4a4d-9e5d-ca9a1485089b</guid>
+            <pubDate>Tue, 03 May 2016 23:25:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f0660f9e6cf3677f2d6eb465e3338a0c5023900.jpg" alt="" title="">]]></description>
@@ -19,13 +26,6 @@
             <link>https://soundcloud.com/thejerseyscolorado/sherry-clip</link>
             <guid isPermaLink="false">fda03db5-6473-498f-88a6-a91d2d031658</guid>
             <pubDate>Tue, 03 May 2016 23:21:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Jersey's Colorado events]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/97ea5929-d081-46af-9232-36cc4fb6cb0b.jpg" alt="" title="">]]></description>
-            <link>https://tockify.com/jerseys/pinboard</link>
-            <guid isPermaLink="false">64833039-23f8-4a4d-9e5d-ca9a1485089b</guid>
-            <pubDate>Tue, 03 May 2016 22:01:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
