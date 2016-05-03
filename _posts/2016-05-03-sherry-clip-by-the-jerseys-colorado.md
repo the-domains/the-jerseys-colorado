@@ -1,16 +1,18 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://soundcloud.com/thejerseyscolorado/sherry-clip'
+inLanguage: null
+keywords: []
+description: Stream Sherry Clip by The Jerseys Colorado from desktop or your mobile device
+datePublished: '2016-05-03T21:40:10.576Z'
+dateModified: '2016-05-03T21:39:57.885Z'
 author:
   - name: The Jerseys Colorado
     url: 'http://soundcloud.com/thejerseyscolorado'
     avatar: {}
 related: []
-publisher:
-  url: 'http://soundcloud.com'
-  name: SoundCloud
-  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-  domain: soundcloud.com
-keywords: []
-description: Stream Sherry Clip by The Jerseys Colorado from desktop or your mobile device
 app_links:
   - type: ios
     namespace: ai
@@ -48,16 +50,16 @@ app_links:
     package: '336353151'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://soundcloud.com/thejerseyscolorado/sherry-clip'
 title: Sherry Clip by The Jerseys Colorado
-datePublished: '2016-05-03T21:39:51.527Z'
-dateModified: '2016-05-03T21:38:48.579Z'
-starred: false
 sourcePath: _posts/2016-05-03-sherry-clip-by-the-jerseys-colorado.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: SoundCloud
+  domain: soundcloud.com
+  url: 'http://soundcloud.com'
+  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
+starred: false
 _type: AudioObject
 _context: 'http://schema.org'
 
