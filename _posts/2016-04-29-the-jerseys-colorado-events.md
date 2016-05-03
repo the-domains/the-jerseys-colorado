@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://tockify.com/jerseys/pinboard'
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-03T21:46:35.444Z'
-dateModified: '2016-05-03T21:42:11.786Z'
+datePublished: '2016-05-03T21:49:18.296Z'
+dateModified: '2016-05-03T21:48:12.596Z'
 author: []
 related: []
 app_links: []
@@ -20,7 +20,7 @@ publisher:
   domain: tockify.com
   url: 'https://tockify.com'
   favicon: 'https://tockify.com/favicon.ico'
-starred: true
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
