@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://tockify.com/jerseys/pinboard'
 inLanguage: null
 keywords: []
 description: The Jerseys Colorado Events
-datePublished: '2016-05-03T21:55:23.917Z'
-dateModified: '2016-05-03T21:55:14.477Z'
+datePublished: '2016-05-03T22:01:19.370Z'
+dateModified: '2016-05-03T22:01:16.435Z'
 author:
   - name: ''
     url: ''
