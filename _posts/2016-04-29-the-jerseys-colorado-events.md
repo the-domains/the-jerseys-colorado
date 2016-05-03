@@ -5,13 +5,15 @@ inNav: false
 isBasedOnUrl: 'https://tockify.com/jerseys/pinboard'
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-05-03T21:50:26.870Z'
-dateModified: '2016-05-03T21:49:26.316Z'
-author: []
+description: The Jerseys Colorado Events
+datePublished: '2016-05-03T21:53:05.748Z'
+dateModified: '2016-05-03T21:53:03.617Z'
+author:
+  - name: ''
+    url: ''
 related: []
 app_links: []
-title: "The Jersey's Colorado events"
+title: ''
 sourcePath: _posts/2016-04-29-the-jerseys-colorado-events.md
 published: true
 authors: []
@@ -25,6 +27,5 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>The Jersey's Colorado events</h1></article>
-
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7bc4fa99-9b19-4c6a-9963-5c0164f4159b.jpg)
+The Jerseys Colorado Events
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/97ea5929-d081-46af-9232-36cc4fb6cb0b.jpg)
