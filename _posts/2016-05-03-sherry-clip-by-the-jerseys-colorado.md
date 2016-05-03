@@ -6,11 +6,11 @@ isBasedOnUrl: 'https://soundcloud.com/thejerseyscolorado/sherry-clip'
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-03T21:45:46.455Z'
-dateModified: '2016-05-03T21:45:45.965Z'
+datePublished: '2016-05-03T22:02:55.576Z'
+dateModified: '2016-05-03T22:02:46.562Z'
 author:
-  - name: The Jerseys Colorado
-    url: 'http://soundcloud.com/thejerseyscolorado'
+  - name: ''
+    url: ''
     avatar: {}
 related: []
 app_links:
