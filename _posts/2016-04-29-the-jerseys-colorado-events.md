@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://tockify.com/jerseys/pinboard'
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-03T21:49:18.296Z'
-dateModified: '2016-05-03T21:48:12.596Z'
+datePublished: '2016-05-03T21:50:26.870Z'
+dateModified: '2016-05-03T21:49:26.316Z'
 author: []
 related: []
 app_links: []
